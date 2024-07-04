@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rahulagowda004/Projects](https://github.com/Rahulagowda004/Projects)
-
 - 💬 Ask me about **Machine Learning, Deep Learning and Gen AI**
 
 - 📫 How to reach me **rahulgowda277@gmail.com**
