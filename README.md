@@ -1,28 +1,250 @@
-<h1 align="center">Hi Everyone 👋, I'm Rahul A Gowda</h1> <h3 align="center">AI Engineer | ISRO Intern | Building Sustainable & Agentic AI Solutions</h3>
-🎓 About Me
-I'm an AI Engineer from India with a passion for building impactful applications in Machine Learning, Deep Learning, and Generative AI. Currently, I’m working as an intern at ISRO (URSC), contributing to Generative AI applications in the space-tech domain.
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hi+Everyone+%F0%9F%91%8B%2C+I'm+Rahul+A+Gowda;AI+Engineer+%7C+ISRO+Project+Trainee;Building+Sustainable+%26+Agentic+AI+Solutions;Hackathon+Winner+%7C+Innovation+Leader" alt="Typing SVG" />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Rahulagowda004&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  
+  <!-- Animated Separator -->
+  <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+</div>
 
-I’m also the creator of Vecem – an open-source platform empowering sustainable and agentic AI by enabling users to upload/download datasets, generate system prompts, and collaborate on AI research.
+<!-- About Me Section -->
+<h2 align="center">🚀 About Me</h2>
 
-Agentic AI Frameworks & RAG Pipelines
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
-FastAPI, MongoDB, and Vector Databases
+- 🛰️ Currently working as **Project Trainee at URSC (ISRO), Bangalore**
+- 🤖 **AI Engineer Intern at Al-Zira Technologies** (Mar 2025 - Present)
+- 🌱 Building **Generative and Agentic AI applications** with Team Gyaan
+- 👨‍💻 Creator of **[Vecem](https://github.com/Rahulagowda004/vecem)** - Open-source platform for sustainable AI
+- 🏆 **Hackathon Winner** - VIT Hackathon, Hackmania, Securathon champion
+- 🧠 Researching **LLM intelligence via question-based evaluation**
+- 💬 Ask me about **Agentic AI, LangChain, RAG pipelines, and Computer Vision**
+- 📫 Reach me at: **rahulgowda277@gmail.com**
+- ⚡ Fun fact: **I love building AI solutions that bridge space technology and real-world impact!**
 
-LLM Fine-tuning and Inference Optimization
+<br clear="both">
 
-💬 Ask Me About
+<!-- Professional Experience Section -->
+<h2 align="center">💼 Professional Experience</h2>
 
-Machine Learning & Deep Learning
+<div align="center">
 
-Generative AI & LLMs
+### 🛰️ URSC (ISRO), Bangalore - Project Trainee
+**Oct 2024 - Mar 2025**
+- 🤖 Built **Generative and Agentic AI apps** (Gyaan Meet, Docx, Coder, Admin) with Team Gyaan
+- 🔬 Researched **LLM intelligence via question-based evaluation**
+- 🦴 Developed **CNN model for bone fracture detection** with SHAP-based explainability
+- 💬 Created **LightRAG-powered chatbots** for internal research support
 
-Computer Vision & NLP
+### 🚀 Al-Zira Technologies, Remote - AI Engineer Intern
+**Mar 2025 - Present**
+- 🔗 Built **agentic AI tools** using LangChain and LangGraph (Email Writer, Medical Assistant)
+- 🗄️ Integrated **Neo4j, vector embeddings, and email** with Dockerized chatbots
 
-Building full-stack AI apps using Next.js, TypeScript, FastAPI, and MongoDB
+### 📊 Aspire Technologies, Bangalore - AI Business Intelligence Intern
+- 📈 Worked on **preprocessing, visualization, and model building** for BI solutions
+- ⚙️ Built **inference pipelines** using Pandas, NumPy, Scikit-learn, and Seaborn
 
-📫 How to Reach Me
+### 🤖 Unifirst Robotics, Bangalore - Machine Learning Engineer Intern
+- 🧠 Built and tuned **ML/DL models** with focus on interpretability and performance
+- 📐 Applied **mathematical understanding of deep learning** concepts in real-world tasks
 
-Email: rahulgowda277@gmail.com
+</div>
 
-<h3 align="left">🌐 Connect with Me</h3> <p align="left"> <a href="https://linkedin.com/in/rahulagowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulagowda" height="30" width="40" /></a> <a href="https://instagram.com/rahulgowda277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahulgowda277" height="30" width="40" /></a> <a href="https://discord.gg/rahul0017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rahul0017" height="30" width="40" /></a> </p>
-<h3 align="left">🛠️ Languages & Tools</h3> <p align="left"> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a> <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/></a> <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a> <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/></a> <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a> <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/></a> <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/></a> </p>
+<!-- Skills Section -->
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
+
+<div align="center">
+
+### 🤖 AI/ML Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+</p>
+
+### 🧠 Generative & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-4ECDC4?style=for-the-badge&logo=openai&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LightRAG-FFE66D?style=for-the-badge&logo=lightning&logoColor=black" alt="LightRAG"/>
+  <img src="https://img.shields.io/badge/Unsloth-FF6B9D?style=for-the-badge&logo=fastapi&logoColor=white" alt="Unsloth"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+</p>
+
+### 🌐 Web Development & APIs
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+</p>
+
+### 🔧 Data Science & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="SHAP"/>
+</p>
+
+</div>
+
+<!-- Separator -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Achievements & Hackathons -->
+<h2 align="center">🏆 Achievements & Competitions</h2>
+
+<div align="center">
+  
+### 🎯 Hackathon Victories
+  
+| Competition | Achievement | Skills Demonstrated |
+|-------------|-------------|-------------------|
+| 🥇 **VIT Hackathon** | **Winner** | Leadership, Problem-solving, Technical Innovation |
+| 🏆 **Hackmania** | **Champion** | Software Innovation, Rapid Prototyping |
+| 🔒 **Securathon** | **Winner** | Cybersecurity, AI Integration |
+| 🚀 **Multiple Hackathons** | **Participant** | Strategic Thinking, Pressure Performance |
+
+### 💡 Core Competencies Showcased
+- 👥 **Leadership & Team Management**
+- ⚡ **Rapid Prototyping & Development**
+- 🧠 **Strategic Thinking Under Pressure**
+- 🔗 **AI Integration & Innovation**
+- 🛡️ **Cybersecurity Solutions**
+
+</div>
+
+<!-- Projects Section -->
+<h2 align="center">🎯 Featured Projects</h2>
+
+<div align="center">
+  
+### 🛰️ ISRO Team Gyaan Projects
+<p>
+  <img src="https://img.shields.io/badge/Gyaan%20Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Gyaan Meet"/>
+  <img src="https://img.shields.io/badge/Gyaan%20Docx-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Gyaan Docx"/>
+  <img src="https://img.shields.io/badge/Gyaan%20Coder-000000?style=for-the-badge&logo=github&logoColor=white" alt="Gyaan Coder"/>
+  <img src="https://img.shields.io/badge/Gyaan%20Admin-FF6B6B?style=for-the-badge&logo=webpack&logoColor=white" alt="Gyaan Admin"/>
+</p>
+
+  <a href="https://github.com/Rahulagowda004/vecem">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulagowda004&repo=vecem&theme=tokyonight&hide_border=true" />
+  </a>
+  
+  <!-- Bone Fracture Detection Project -->
+  <div style="margin: 10px;">
+    <h4>🦴 Bone Fracture Detection with CNN & SHAP</h4>
+    <p><em>AI-powered medical diagnosis with explainability</em></p>
+  </div>
+  
+</div>
+
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulagowda004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulagowda004&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulagowda004&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulagowda004&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" width="100%"/>
+</div>
+
+<!-- Expertise Areas -->
+<h2 align="center">🎯 Areas of Expertise</h2>
+
+<div align="center">
+  
+  ```text
+  🛰️ Space Technology AI Applications (ISRO Projects)
+  🤖 Agentic AI Frameworks (LangChain, LangGraph, CrewAI)
+  🔗 RAG Pipelines & Vector Databases (LightRAG, Neo4j)
+  🧠 LLM Fine-tuning & Intelligence Evaluation
+  🏥 Medical AI & Computer Vision (Bone Fracture Detection)
+  📊 Business Intelligence & Data Analytics
+  🔒 AI-powered Cybersecurity Solutions
+  ⚡ Full-stack AI Applications (FastAPI + Next.js)
+  🏆 Rapid Prototyping & Hackathon Development
+  ```
+  
+</div>
+
+<!-- Current Focus -->
+<h2 align="center">🚀 Current Focus</h2>
+
+<div align="center">
+  
+  🔬 **Researching LLM Intelligence** via question-based evaluation at ISRO<br>
+  🤖 **Building Agentic AI Tools** for real-world applications<br>
+  🛰️ **Contributing to Space Technology** through AI innovation<br>
+  🌱 **Advancing Sustainable AI** through the Vecem platform<br>
+  🏆 **Leading Hackathon Teams** to victory across India<br>
+  
+</div>
+
+<!-- Connect Section -->
+<h2 align="center">🌐 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/rahulagowda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/rahulgowda277" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.gg/rahul0017" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:rahulgowda277@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  <h3>🛰️ "Bridging Space Technology and AI Innovation - One Algorithm at a Time" 🚀</h3>
+  <p><em>From ISRO labs to hackathon victories, building the future of Agentic AI</em></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Open+to+collaboration+and+new+opportunities!+%E2%9C%A8" alt="Footer Typing SVG" />
+</div>
