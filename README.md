@@ -141,47 +141,9 @@
 
 </div>
 
-<!-- Projects Section -->
-<h2 align="center">🎯 Featured Projects</h2>
-
 <div align="center">
   
-### 🛰️ ISRO Team Gyaan Projects
-<p>
-  <img src="https://img.shields.io/badge/Gyaan%20Meet-4285F4?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Gyaan Meet"/>
-  <img src="https://img.shields.io/badge/Gyaan%20Docx-185ABD?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Gyaan Docx"/>
-  <img src="https://img.shields.io/badge/Gyaan%20Coder-000000?style=for-the-badge&logo=github&logoColor=white" alt="Gyaan Coder"/>
-  <img src="https://img.shields.io/badge/Gyaan%20Admin-FF6B6B?style=for-the-badge&logo=webpack&logoColor=white" alt="Gyaan Admin"/>
-</p>
 
-  <a href="https://github.com/Rahulagowda004/vecem">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulagowda004&repo=vecem&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <!-- Bone Fracture Detection Project -->
-  <div style="margin: 10px;">
-    <h4>🦴 Bone Fracture Detection with CNN & SHAP</h4>
-    <p><em>AI-powered medical diagnosis with explainability</em></p>
-  </div>
-  
-</div>
-
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahulagowda004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulagowda004&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulagowda004&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulagowda004&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" width="100%"/>
-</div>
 
 <!-- Expertise Areas -->
 <h2 align="center">🎯 Areas of Expertise</h2>
