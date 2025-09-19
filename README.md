@@ -18,7 +18,8 @@
   <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
-- 🛰️ Currently working as **Project Trainee at URSC (ISRO), Bangalore**
+- 💻working as **AI Executive-Founder's office at iTCart Pvt. Ltd.**
+- 🛰️Worked as **Project Trainee at URSC (ISRO), Bangalore**
 - 🤖 **AI Engineer Intern at Al-Zira Technologies** (Mar 2025 - Present)
 - 🌱 Building **Generative and Agentic AI applications** with Team Gyaan
 - 👨‍💻 Creator of **[Vecem](https://github.com/Rahulagowda004/vecem)** - Open-source platform for sustainable AI
